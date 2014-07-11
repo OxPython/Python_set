@@ -13,7 +13,7 @@ Common uses include membership testing, removing duplicates from a
 sequence, and computing mathematical operations such as intersection,
 union, difference, and symmetric difference.
 '''
-
+ 
 #Create a empty set.
 s = set([])
 print(type(s))
